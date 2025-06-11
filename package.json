@@ -1,5 +1,9 @@
 {
   "name": "telegramanimatedemoji",
   "module": "index.js",
-  "dependencies": {}
+  "dependencies": {
+    "node-apng": "tomashubelbauer/node-apng",
+    "puppeteer-lottie": "^1.1.2",
+    "sharp": "^0.34.2"
+  }
 }
